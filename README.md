@@ -14,4 +14,7 @@ A global analysis of the factors that lead to successful Kickstarter campaigns
 •	Submitting a Kickstarter idea earlier in the year (Feb-May) is more likely to be funded than submitting later in the year (Sept-Dec).     Additionally, lower goal targets are more likely to be successful. 
 
 
+![Number of Successful Campaigns by Month](https://user-images.githubusercontent.com/48166327/57978115-4087d600-79bb-11e9-82e1-0e6fd73cc070.png)
+
+![Outcome based on Kickstarter pledge goal](https://user-images.githubusercontent.com/48166327/57978120-4978a780-79bb-11e9-90cd-72b3e5362676.png)
 
