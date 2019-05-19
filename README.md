@@ -8,6 +8,8 @@ A global analysis of the factors that lead to successful Kickstarter campaigns
 •	The sub-category “plays” receive by far the most submissions and have the largest number of successful campaigns.  
 
 
+![Sub Category Pivot Table](https://user-images.githubusercontent.com/48166327/57978101-16ceaf00-79bb-11e9-906a-13e4d6f6e258.png)
+
 
 •	Submitting a Kickstarter idea earlier in the year (Feb-May) is more likely to be funded than submitting later in the year (Sept-Dec).     Additionally, lower goal targets are more likely to be successful. 
 
